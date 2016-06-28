@@ -3,9 +3,9 @@ Unobtrusive Finite State Machine
 
 ##Motivation
 
-Inevitably at some point during a project that handles many states (like a game), we consider using a formal Finite State Automata framework. We search high and low, and all the conventions, extra setup code and retrofitting efforts seem to outweigh the intended benefit. We may find ourselves sticking with our spagethie bowl and dealing with bugs. <b>Not anymore.</b>
+Inevitably at some point during a project that handles many states (like a game), we consider using a formal Finite State Automata framework. We search high and low, and all the conventions, extra setup code and retrofitting efforts seem to outweigh the intended benefit. We may find ourselves sticking with our spagetti bowl and dealing with bugs. <b>Not anymore.</b>
 
-FSMLight was created to address the need to have robust Finite State Automata in games, all the while making it enjoyable to use from the prototype stage.  FSMLight does not get in the way or slow you down. Anybody can use it right away and reap some benefit.
+FSMLight was created to address the need to have robust Finite State Automata in games, all the while making it enjoyable to use from the prototype stage. FSMLight does not get in the way or slow you down. Anybody can use it right away and reap some benefit.
 
 ##Background Information
 
