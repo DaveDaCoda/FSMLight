@@ -104,7 +104,7 @@ Just instantiate the machine and step through it, like this:
 
 That's it!
 
-In the case that a machine has a Stop state (like the end of a complex game sequene), then SingleStep() will return false. It is perfectly OK to ommit Stop states. Some machines just run forever, like user input processing.
+In the case that a machine has a Stop state (like the end of a complex game sequence), then SingleStep() will return false. It is perfectly OK to ommit Stop states. Some machines just run forever, like user input processing.
 
 
 
