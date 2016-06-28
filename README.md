@@ -1,11 +1,11 @@
 # FSMLight
 Unobtrusive Finite State Machine 
 
-##NOTE: See Wiki for project information.
 
-##Full  Example
+##Code Example
+
 Here's a complete example that shows how easy it is to get started:
-
+(Please see the Wiki for more usage and project information.)
 
         using FSMLight;
         
