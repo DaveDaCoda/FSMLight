@@ -68,10 +68,8 @@ Here's a complete example that shows how easy it is to get started:
                             var key = Console.ReadKey(true);
                             if(key.Key == ConsoleKey.Escape)
                             {
-                                
                                 return DONE;
                             }
-        
                             else if(key.Key == ConsoleKey.E)
                                 return ERROR;
                             else
@@ -79,10 +77,7 @@ Here's a complete example that shows how easy it is to get started:
                                 Console.WriteLine("Got: " + key.Key.ToString());
                                 return RUNNING;
                             }
-        
-        
                         }
-                  
                     }
         
                     [Inputs(ERROR)]
